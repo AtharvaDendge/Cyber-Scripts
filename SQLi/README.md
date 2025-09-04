@@ -37,6 +37,7 @@ target_url = "http://10.10.95.166/login.php" // Change This
 python3 sqli_tester.py
 
 ⚠️ Disclaimer <br>
+
 This script is intended for educational purposes only.
 Do not use this tool against any system without explicit permission.
 
