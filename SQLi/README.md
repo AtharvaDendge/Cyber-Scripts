@@ -40,9 +40,20 @@ python3 sqli_tester.py
 This script is intended for educational purposes only.
 Do not use this tool against any system without explicit permission.
 
+## Requirements
+- Python 3.x
+- requests library
+
+## Installation
+1. Clone the repository:
+   git clone https://github.com/AtharvaDendge/SQLi-Tester.git
+2. Install dependencies:
+   pip install requests
+
+
 👨‍💻 Author
 
 - Atharva Dendge { ABD }
-  
+
 Cybersecurity Student | Web Pentester
 
